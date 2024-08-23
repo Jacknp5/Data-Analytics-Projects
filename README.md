@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jack
 - 👀 I’m interested in Data Analytics & Modelling
-- 💞️ I’m looking to collaborate on Data Analytics and Predictive Modelling projects 
+- 💞️ I will be sharing some of my Analytics projects here. Stay tuned! 
 - ⚡ Fun fact: ... Bears do not urinate while they are hibernating.
 
 <!---
